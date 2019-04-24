@@ -18,6 +18,14 @@ public class AlgoritmosdeOrdenacion {
         // TODO code application logic here
     }
     
+    int[] listaNumeros = (11,17,21,55);
     
+    public int burbuja (int[] cadena){
+        int saco = 0;
+        for( int i=0, i<cadena.length, i++){
+            
+        }
+        
+    }
     
 }
